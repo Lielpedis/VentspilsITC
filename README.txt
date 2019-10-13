@@ -4,7 +4,7 @@ In order to play the game you need to have GDevelop
 or go to the gdevelop website - https://gdevelop-app.com/
 
 In GDevelop video playing is a experimental object, 
-that is why we have them in a seperate folder "The Big Bang\video"
+that is why we have the videos in a seperate folder "The Big Bang\video"
 
 The game starts with this scene - "Video1"
 
