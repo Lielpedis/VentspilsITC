@@ -2,17 +2,22 @@
 
 //The final version is in the Folder "The Big Bang"
 
-In order to play the game you need to have GDevelop
-or go to the gdevelop website - https://gdevelop-app.com/
-
-The game file is in "The Big Bang\The Big Bang.json"
-
 //In GDevelop video playing is a experimental object, 
 //that is why we have the videos in a seperate folder "The Big Bang\video"
 //View the videos only when it's instructed!
 
-The game starts with this scene - "Video1"
+In order to play the game you need to have GDevelop
+or go to the gdevelop website - https://gdevelop-app.com/
 
+1)Open the game file - "The Big Bang\The Big Bang.json"
+2)Click on Project manager
+3)Choose this scene - "Video1"
+4)Click on "Launch a preview of the scene"
+5)Now the game is launched 
+Enjoy the game :)
+
+
+//Cheatsheet
 Combinations in level 1:
 Water + Fire = Steam
 Earth + Fire = Lava
@@ -25,5 +30,3 @@ Combinations in level 2:
 Seed + Mud = Plant
 Plant + Water = Teabag
 Teabag + Boiling Water = Tea
-
-Enjoy the game :)
