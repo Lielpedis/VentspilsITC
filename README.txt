@@ -7,6 +7,7 @@ or go to the gdevelop website - https://gdevelop-app.com/
 
 //In GDevelop video playing is a experimental object, 
 //that is why we have the videos in a seperate folder "The Big Bang\video"
+//View the videos only when it's instructed!
 
 The game starts with this scene - "Video1"
 
