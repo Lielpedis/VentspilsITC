@@ -1,5 +1,5 @@
-In order to play the game you need to go to Releases
-and download - "TheBigBang(exe+videos).zip"
+To play the game you need to go to Releases
+and download - "TheBigBang.exe+videos.rar"
 
 //Ventspils IT Challenge team - "Trīs Stūri"
 //PIKC "Rigas Tehniska koledza" - P1-2
